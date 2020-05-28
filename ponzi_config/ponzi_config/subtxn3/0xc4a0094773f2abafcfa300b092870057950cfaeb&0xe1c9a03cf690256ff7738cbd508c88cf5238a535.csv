@@ -1,0 +1,2 @@
+Class,address,age,block,creator,direction,inter_direction,txFee,txhash,txn_type,type,value
+1,0xe1c9a03cf690256ff7738cbd508c88cf5238a535,1523380503,5418505.0,0xc84c18a88789dba5b0ca9c13973435bbce7e961d,OUT,2,0.0,0xcc8373d27c49c742aff393d215836c5ec663683132c64444dd3a47f1caf233e3,internal,call,0.002969469658717 Ether
