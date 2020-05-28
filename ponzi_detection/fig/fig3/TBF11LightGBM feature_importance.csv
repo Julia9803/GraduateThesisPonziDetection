@@ -1,0 +1,78 @@
+feature_name,importance
+"('OUT&internal&call',)",9180
+"('IN&external&0',)",5010
+"('IN&internal&call',)",810
+"('IN&internal&suicide',)",0
+"('OUT&internal&create',)",0
+"('OUT&internal&call', 'OUT&internal&call')",0
+"('IN&external&0', 'IN&external&0')",0
+"('IN&internal&call', 'IN&internal&call')",0
+"('IN&internal&call', 'OUT&internal&call')",0
+"('IN&external&0', 'IN&external&0', 'IN&external&0')",0
+"('OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0')",0
+"('OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0')",0
+"('OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0')",0
+"('OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0')",0
+"('OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0')",0
+"('OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0')",0
+"('OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0', 'IN&external&0')",0
+"('OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0
+"('IN&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call', 'OUT&internal&call')",0

@@ -1,0 +1,16 @@
+feature_name,importance
+Txn_len,781
+N_investments,1260
+N_payments,1536
+D_index,1116
+Avg_investment,1178
+Std_investment,804
+Avg_payment,2005
+Std_payment,1551
+Investment_times,323
+Payment_times,182
+Investment_payment_rate,40
+Txn_period,3007
+N_owner,95
+N_creator,416
+N_other,706
