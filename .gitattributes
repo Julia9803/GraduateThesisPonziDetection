@@ -15,3 +15,4 @@ ponzi_detection/transaction_short_creator.csv filter=lfs diff=lfs merge=lfs -tex
 ponzi_config/ponzi_config/subtrainLabels1.csv filter=lfs diff=lfs merge=lfs -text
 ponzi_config/ponzi_config/subtrainLabels2.csv filter=lfs diff=lfs merge=lfs -text
 ponzi_config/ponzi_config/subtrainLabels3.csv filter=lfs diff=lfs merge=lfs -text
+ponzi_detection/transactions.zip filter=lfs diff=lfs merge=lfs -text
